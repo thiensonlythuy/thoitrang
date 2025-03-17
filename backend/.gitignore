@@ -1,0 +1,10 @@
+# thư mục build và runtime
+/bin
+/obj
+.env
+.vscode/
+.DS_Store
+
+# Thư mục chứa thông tin người dùng
+*.user
+*.suo
